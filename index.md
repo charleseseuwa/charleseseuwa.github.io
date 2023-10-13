@@ -1,8 +1,8 @@
 # Portfolio
 ---
-## Natural Language Processing
+## Covid19 Data Analytics
 
-### CS224n: Natural Language Processing with Deep Learning
+## Making a Covid Bar Chart Race with Flourish
 
 My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
 
@@ -60,7 +60,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
+### Recommendation System - Ecommerce Store Items.ipynb
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
@@ -71,7 +71,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-### Predict Breast Cancer with RF, PCA and SVM using Python
+### Clustering Customer Data from Travel Agency
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/breast-cancer.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
@@ -82,7 +82,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-### Business Analytics Conference 2018: How is NYC's Government Using Money?
+### Trading Bot Using Reinforcement or Q-Learning (deep learning using PyTorch)
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 
