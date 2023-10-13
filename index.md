@@ -3,7 +3,7 @@
 ## [Covid19 Data Analytics](https://www.google.com "Google's Homepage")
 
  This is a Covid-19 data analysis project, the goal of this project is to get a detailed analysis and visualization of the Covid19 data set.
-I will explore the dataset from Https://covid.ourworldindata.org for this project and the goal of is to achieve the informations listed below:
+I will explore the dataset from [Https://covid.ourworldindata.org] for this project and the goal of is to achieve the informations listed below:
 
 + **World Covid-19 Growth Over time**
 + **Total confirm Cases in Each Country**
@@ -13,7 +13,12 @@ I will explore the dataset from Https://covid.ourworldindata.org for this projec
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
 
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+## [Clustering Travel Agency Booking Data](https://www.google.com "Google's Homepage")
+
+In this project I carried out some data manipulation using Pandas and Numpy, I also used Matplotlib, Seaborn and Plylab for visualization.
+I used the sklearn libary to import my models and implemented clustering via **k-means**.
+
+([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
 **Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
 
