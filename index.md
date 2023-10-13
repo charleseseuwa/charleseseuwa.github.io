@@ -5,11 +5,11 @@
  This is a Covid-19 data analysis project, the goal of this project is to get a detailed analysis and visualization of the Covid19 data set.
 I will be explored the dataset from Https://covid.ourworldindata.org for this project and the goal of this project is to achieve the informations listed below:
 
-*1. World Covid-19 Growth Over time*
-*2. Total confirm Cases in Each Country*
-*3. Mapping Covid Around the world*
-*4. The Evpolution of Confirmed Cases PM*
-*5. Using Flourish to make a Covid Ber Chart Race.*
++ World Covid-19 Growth Over time
++ Total confirm Cases in Each Country
++ Mapping Covid Around the world
++ The Evpolution of Confirmed Cases PM
++ Using Flourish to make a Covid Ber Chart Race.
 
 ## Making a Covid Bar Chart Race with Flourish
 
