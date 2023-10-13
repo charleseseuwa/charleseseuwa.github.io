@@ -2,6 +2,15 @@
 ---
 ## [Covid19 Data Analytics](https://www.google.com "Google's Homepage")
 
+ This is a Covid-19 data analysis project, the goal of this project is to get a detailed analysis and visualization of the Covid19 data set.
+I will be explored the dataset from Https://covid.ourworldindata.org for this project and the goal of this project is to achieve the informations listed below:
+
+1. World Covid-19 Growth Over time
+2. Total confirm Cases in Each Country
+3. Mapping Covid Around the world
+4. The Evpolution of Confirmed Cases PM
+5. Using Flourish to make a Covid Ber Chart Race.
+
 ## Making a Covid Bar Chart Race with Flourish
 
 My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
