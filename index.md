@@ -15,8 +15,8 @@ I will explore the dataset from [Https://covid.ourworldindata.org] for this proj
 
 ## [Clustering Travel Agency Booking Data](https://www.google.com "Google's Homepage")
 
-In this project I carried out some data manipulation using Pandas and Numpy, I also used Matplotlib, Seaborn and Plylab for visualization.
-I used the sklearn libary to import my models and implemented clustering via **k-means**.
+ In this project I carried out some data manipulation using **Pandas** and **Numpy**, I also used **Matplotlib**, **Seaborn** and **Plylab** for visualization.
+I used the sklearn libary to import my models and implemented clustering via **k-means.**
 
 ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
