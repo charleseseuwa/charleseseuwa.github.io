@@ -3,7 +3,7 @@
 ## [Covid19 Data Analytics](https://www.google.com "Google's Homepage")
 
  This is a Covid-19 data analysis project, the goal of this project is to get a detailed analysis and visualization of the Covid19 data set.
-I will explore the dataset from [Https://covid.ourworldindata.org] for this project and the goal of is to achieve the informations listed below:
+I will explore the dataset from (Https://covid.ourworldindata.org) for this project and the goal of is to achieve the informations listed below:
 
 + **World Covid-19 Growth Over time**
 + **Total confirm Cases in Each Country**
