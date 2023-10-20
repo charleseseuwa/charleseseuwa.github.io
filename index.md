@@ -1,6 +1,6 @@
 # Portfolio
 ---
-## [Covid19 Data Analytics](https://www.google.com "Google's Homepage")
+## Covid-19 Data Analytics
 
  This is a Covid-19 data analysis project, the goal of this project is to get a detailed analysis and visualization of the Covid19 data set.
 I will explore the dataset from (Https://covid.ourworldindata.org) for this project and the goal of is to achieve the informations listed below:
@@ -19,7 +19,7 @@ I will explore the dataset from (Https://covid.ourworldindata.org) for this proj
 
 
 
-## [Clustering Travel Agency Booking Data](https://www.google.com "Google's Homepage")
+## Clustering Travel Agency Booking Data
 
  In this project I carried out some data manipulation using **Pandas** and **Numpy**, I also used **Matplotlib**, **Seaborn** and **Plylab** for visualization.
 I used the sklearn libary to import my models and implemented clustering via **k-means.**
