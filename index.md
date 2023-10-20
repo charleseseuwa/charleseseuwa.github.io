@@ -3,7 +3,7 @@
 ## Covid-19 Data Analytics
 
 **Understanding the Impact of COVID-19**
-The COVID-19 pandemic, caused by the novel coronavirus SARS-CoV-2, has indisputably become one of the most significant global crises of the 21st century. It has affected nearly every aspect of human life, from public health and the economy to social dynamics and the way we conduct daily activities. The pandemic has disrupted our world, revealing vulnerabilities in healthcare systems, economies, and societal structures, while simultaneously showcasing the resilience and adaptability of communities worldwide.
+The COVID-19 pandemic, caused by the novel coronavirus SARS-CoV-2, has indisputably become one of the most significant global crises of the 21st century. It has affected nearly every aspect of human life, from public health and the economy to social dynamics and the way we conduct daily activities.
 
 Amidst this backdrop, the goal of this project is to contribute to our collective understanding of the pandemic's impact and to provide valuable insights into the progression of COVID-19. Our objectives are to analyze and visualize COVID-19 data, thereby shedding light on critical aspects of the pandemic:
 + **World Covid-19 Growth Over time**
@@ -12,11 +12,10 @@ Amidst this backdrop, the goal of this project is to contribute to our collectiv
 + **The Evolution of Confirmed Cases PM**
 + **Using Flourish to make a Covid Ber Chart Race**
 
-+ In times of crisis, data analysis and visualization play a pivotal role in informing decisions, shaping policies, and guiding public understanding.
-+ This project seeks to contribute to the broader conversation on COVID-19. We believe that by applying data science techniques to COVID-19 data, we can better comprehend the pandemic's challenges, identify solutions, and pave the way for a more resilient and informed future.
+In times of crisis, data analysis and visualization play a pivotal role in informing decisions, shaping policies, and guiding public understanding.
+This project seeks to contribute to the broader conversation on COVID-19. I believe that by applying data science techniques to COVID-19 data, we can better comprehend the pandemic's challenges, identify solutions, and pave the way for a more resilient and informed future.
 
 
-This is a Covid-19 data analysis project, the goal of this project is to get a detailed analysis and visualization of the Covid19 data set.
 I will explore the dataset from (Https://covid.ourworldindata.org) for this project and the goal of is to achieve the informations listed below:
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
 
