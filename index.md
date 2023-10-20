@@ -16,6 +16,25 @@ In times of crisis, data analysis and visualization play a pivotal role in infor
 This project seeks to contribute to the broader conversation on COVID-19. I believe that by applying data science techniques to COVID-19 data, we can better comprehend the pandemic's challenges, identify solutions, and pave the way for a more resilient and informed future.
 The COVID-19 dataset used for this analysis was sourced from [Our World in Data](Https://covid.ourworldindata.org), a reputable and publicly available repository of COVID-19 data.
 
+To prepare the dataset for analysis, several data cleaning and preprocessing steps were undertaken. These steps included the following:
++ **Handling Missing Data**
++ **Data Aggregation**
++ **Removal Of Duplicate**
+The COVID-19 dataset was subjected to a rigorous analysis to extract meaningful insights and patterns. The following methods were employed to explore the data:
++ **Data Cleaning and Preparation**
++ **World Covid-19 Growth Over Time**
++ **Confirmed Cases in Each Country**
++ **Mapping Covid Around the World**
++ **Evolution of Confirmed Cases PM**
++ **Comparing Continents & Countries**
++ **Preparing Dataset for Flourish Bar Chart Race**
++ **Flourish - Making a Covid Bar Chart Race**
+
+
+
+
+
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
 
 <center><img src="images/Covid-19 Chart Race.png"/></center>
