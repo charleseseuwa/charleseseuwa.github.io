@@ -5,12 +5,7 @@
 **Understanding the Impact of COVID-19**
 The COVID-19 pandemic, caused by the novel coronavirus SARS-CoV-2, has indisputably become one of the most significant global crises of the 21st century. It has affected nearly every aspect of human life, from public health and the economy to social dynamics and the way we conduct daily activities.
 
-Amidst this backdrop, the goal of this project is to contribute to our collective understanding of the pandemic's impact and to provide valuable insights into the progression of COVID-19. Our objectives are to analyze and visualize COVID-19 data, thereby shedding light on critical aspects of the pandemic:
-+ **World Covid-19 Growth Over time**
-+ **Total confirm Cases in Each Country**
-+ **Mapping Covid Around the world**
-+ **The Evolution of Confirmed Cases PM**
-+ **Using Flourish to make a Covid Ber Chart Race**
+Amidst this backdrop, the goal of this project is to contribute to our collective understanding of the pandemic's impact and to provide valuable insights into the progression of COVID-19. Our objectives are to analyze and visualize COVID-19 data, thereby shedding light on critical aspects of the pandemic.
 
 In times of crisis, data analysis and visualization play a pivotal role in informing decisions, shaping policies, and guiding public understanding.
 This project seeks to contribute to the broader conversation on COVID-19. I believe that by applying data science techniques to COVID-19 data, we can better comprehend the pandemic's challenges, identify solutions, and pave the way for a more resilient and informed future.
@@ -20,6 +15,7 @@ To prepare the dataset for analysis, several data cleaning and preprocessing ste
 + **Handling Missing Data**
 + **Data Aggregation**
 + **Removal Of Duplicate**
+  
 The COVID-19 dataset was subjected to a rigorous analysis to extract meaningful insights and patterns. The following methods were employed to explore the data:
 + **Data Cleaning and Preparation**
 + **World Covid-19 Growth Over Time**
