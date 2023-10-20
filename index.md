@@ -14,9 +14,8 @@ Amidst this backdrop, the goal of this project is to contribute to our collectiv
 
 In times of crisis, data analysis and visualization play a pivotal role in informing decisions, shaping policies, and guiding public understanding.
 This project seeks to contribute to the broader conversation on COVID-19. I believe that by applying data science techniques to COVID-19 data, we can better comprehend the pandemic's challenges, identify solutions, and pave the way for a more resilient and informed future.
+The COVID-19 dataset used for this analysis was sourced from [Our World in Data](Https://covid.ourworldindata.org), a reputable and publicly available repository of COVID-19 data.
 
-
-I will explore the dataset from (Https://covid.ourworldindata.org) for this project and the goal of is to achieve the informations listed below:
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
 
 <center><img src="images/Covid-19 Chart Race.png"/></center>
