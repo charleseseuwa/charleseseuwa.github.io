@@ -13,7 +13,7 @@ I will explore the dataset from [Https://covid.ourworldindata.org] for this proj
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
 
-<center><img src="images/choropleth_map.png"/></center>
+<center><img src="images/Covid-19 Chart Race.png"/></center>
 
 ## [Clustering Travel Agency Booking Data](https://www.google.com "Google's Homepage")
 
