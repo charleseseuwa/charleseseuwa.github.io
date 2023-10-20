@@ -15,6 +15,10 @@ I will explore the dataset from [Https://covid.ourworldindata.org] for this proj
 
 <center><img src="images/Covid-19 Chart Race.png"/></center>
 
+## [Click to view Florish Bar Chart Race](https://public.flourish.studio/story/2064297/)
+
+
+
 ## [Clustering Travel Agency Booking Data](https://www.google.com "Google's Homepage")
 
  In this project I carried out some data manipulation using **Pandas** and **Numpy**, I also used **Matplotlib**, **Seaborn** and **Plylab** for visualization.
