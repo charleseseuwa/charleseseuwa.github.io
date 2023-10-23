@@ -26,23 +26,34 @@ The COVID-19 dataset was subjected to a rigorous analysis to extract meaningful 
 + **Preparing Dataset for Flourish Bar Chart Race**
 + **Flourish - Making a Covid Bar Chart Race**
 
-
-
-
-
-
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
 
 <center><img src="images/Covid-19 Chart Race.png"/></center>
 
-## [Click to view Florish Bar Chart Race](https://public.flourish.studio/story/2064297/)
+**[Click to view Florish Bar Chart Race](https://public.flourish.studio/story/2064297/)**
 
 
 
 ## Clustering Travel Agency Booking Data
 
- In this project I carried out some data manipulation using **Pandas** and **Numpy**, I also used **Matplotlib**, **Seaborn** and **Plylab** for visualization.
-I used the sklearn libary to import my models and implemented clustering via **k-means.**
+The goal of this project is to apply clustering techniques to a dataset containing travel agency booking information. By organizing this data into meaningful clusters, I aim to uncover customer segments and travel preferences. This analysis will enable the travel agency to make data-driven decisions, such as targeted marketing, personalized recommendations, and improved resource allocation and the project's primary objectives are as follows:
+
+Problem:
+
+Travel agencies need to better understand their customers' preferences and booking behavior to provide more personalized services and optimize their operations. 
+
+Data:
+
+The dataset comprises information about customers, destinations, booking dates, and travel types. It includes attributes such as customer demographics, destination details, travel dates, and booking types (e.g., vacation, business). The data is sufficiently preprocessed and ready for clustering analysis.
+
+Goals of Clustering Analysis:
+
+Identify distinct customer segments based on their booking behavior and preferences.
+Group similar destinations and booking patterns for better marketing strategies.
+Provide actionable insights to improve the agency's service offerings and operational efficiency.
+Enable targeted marketing and personalized recommendations for customers.
+
+This project will use unsupervised clustering techniques, such as K-Means, to achieve these goals. Through this analysis, we aim to contribute to the travel agency's ability to enhance customer experiences and make informed business decisions.
 
 ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
