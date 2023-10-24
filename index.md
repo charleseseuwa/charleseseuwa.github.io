@@ -55,6 +55,25 @@ Enable targeted marketing and personalized recommendations for customers.
 
 This project will use unsupervised clustering techniques, such as K-Means, to achieve these goals. Through this analysis, we aim to contribute to the travel agency's ability to enhance customer experiences and make informed business decisions.
 
+**Clustering Algorithm Used: K-Means**
+K-Means is a popular and widely-used clustering algorithm for several reasons:
+1. Simplicity: K-Means is straightforward and relatively easy to understand.
+2. Efficiency: K-Means is computationally efficient and works well even on large datasets, making it suitable for processing travel agency booking data, which may involve a substantial number of records.
+3. Versatility: It can work with various types of data and is not limited to any specific distribution of data points.
+4. Scalability: K-Means is scalable, making it suitable for real-world applications where computational resources may be limited.
+
+**Determining the Number of Clusters:**
+Methods used to determine the optimal K:
+
+Elbow Method: The Elbow Method involves running K-Means for a range of values of K and plotting the sum of squared distances (inertia) for each K. The "elbow" point in the plot, where the rate of decrease sharply changes, is typically chosen as the optimal K. This method helps strike a balance between reducing inertia and not overcomplicating the model.
+
+Silhouette Score: The Silhouette Score measures how similar an object is to its cluster compared to other clusters. A higher Silhouette Score indicates that the object is better matched to its own cluster. You can use this score to find the K value that maximizes the overall similarity within clusters.
+
+Domain Knowledge: In some cases, domain knowledge can provide insights into the expected number of clusters. For instance, if you have information about customer segments or types of travel, that knowledge can guide your choice of K.
+
+Hierarchical Clustering: You can use hierarchical clustering as an exploratory tool to get a sense of how data might be naturally grouped. The dendrogram can suggest the number of clusters to use.
+
+
 ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
 **Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
