@@ -40,6 +40,8 @@ The project's primary objectives are as follows:
 **Problem:** Travel agencies need to better understand their customers' preferences and booking behavior to provide more personalized services and optimize their operations. 
 
 **Data:** The dataset comprises information about customers, destinations, booking dates, and travel types. It includes attributes such as customer demographics, destination details, travel dates, and booking types (e.g., vacation, business). The data is sufficiently preprocessed and ready for clustering analysis.
+<center><img src="images/travel_plot.png"/></center>
+
 
 **Clustering Algorithm Used: K-Means**
 <center><img src="images/travel_booking (1).png"/></center>
@@ -63,7 +65,6 @@ Hierarchical Clustering: You can use hierarchical clustering as an exploratory t
 images/travel_plot.png
 
 ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
-<center><img src="images/travel_plot.png"/></center>
 
 
 ---
