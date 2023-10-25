@@ -78,7 +78,7 @@ Hierarchical Clustering: You can use hierarchical clustering as an exploratory t
 
 **Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
 
-<center><img src="images/nlp.png"/></center>
+<center><images/travel_plot.png/></center>
 
 ---
 ## [Predicting Engagement - What drives ad performance?](https://www.google.com "Google's Homepage")
