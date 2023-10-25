@@ -29,7 +29,6 @@ The COVID-19 dataset was subjected to a rigorous analysis to extract meaningful 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
 
 <center><img src="images/Covid-19 Chart Race.png"/></center>
-
 **[Click to view Florish Bar Chart Race](https://public.flourish.studio/story/2064297/)**
 
 
@@ -56,6 +55,8 @@ Enable targeted marketing and personalized recommendations for customers.
 This project will use unsupervised clustering techniques, such as K-Means, to achieve these goals. Through this analysis, we aim to contribute to the travel agency's ability to enhance customer experiences and make informed business decisions.
 
 **Clustering Algorithm Used: K-Means**
+<center><img src="images/travel_plot.png"/></center>
+
 K-Means is a popular and widely-used clustering algorithm for several reasons:
 1. Simplicity: K-Means is straightforward and relatively easy to understand.
 2. Efficiency: K-Means is computationally efficient and works well even on large datasets, making it suitable for processing travel agency booking data, which may involve a substantial number of records.
@@ -72,15 +73,14 @@ Silhouette Score: The Silhouette Score measures how similar an object is to its 
 Domain Knowledge: In some cases, domain knowledge can provide insights into the expected number of clusters. For instance, if you have information about customer segments or types of travel, that knowledge can guide your choice of K.
 
 Hierarchical Clustering: You can use hierarchical clustering as an exploratory tool to get a sense of how data might be naturally grouped. The dendrogram can suggest the number of clusters to use.
-
+images/travel_plot.png
 
 ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
-
-<center><images/travel_plot.png/></center>
+<center><img src="images/travel_booking (1).png"/></center>
 
 ---
+
 ## [Predicting Engagement - What drives ad performance?](https://www.google.com "Google's Homepage")
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
