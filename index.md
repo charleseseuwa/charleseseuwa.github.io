@@ -27,7 +27,6 @@ The COVID-19 dataset was subjected to a rigorous analysis to extract meaningful 
 + **Flourish - Making a Covid Bar Chart Race**
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
-<center><img src="images/travel_plot.png"/></center>
 
 **[Click to view Florish Bar Chart Race](https://public.flourish.studio/story/2064297/)**
 
@@ -43,6 +42,7 @@ The project's primary objectives are as follows:
 **Data:** The dataset comprises information about customers, destinations, booking dates, and travel types. It includes attributes such as customer demographics, destination details, travel dates, and booking types (e.g., vacation, business). The data is sufficiently preprocessed and ready for clustering analysis.
 
 **Clustering Algorithm Used: K-Means**
+<center><img src="images/travel_plot.png"/></center>
 
 
 K-Means is a popular and widely-used clustering algorithm for several reasons:
