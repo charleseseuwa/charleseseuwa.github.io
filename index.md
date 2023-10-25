@@ -42,8 +42,7 @@ The project's primary objectives are as follows:
 **Data:** The dataset comprises information about customers, destinations, booking dates, and travel types. It includes attributes such as customer demographics, destination details, travel dates, and booking types (e.g., vacation, business). The data is sufficiently preprocessed and ready for clustering analysis.
 
 **Clustering Algorithm Used: K-Means**
-<center><img src="images/travel_plot.png"/></center>
-
+<center><img src="images/travel_booking (1).png"/></center>
 
 K-Means is a popular and widely-used clustering algorithm for several reasons:
 1. Simplicity: K-Means is straightforward and relatively easy to understand.
@@ -64,8 +63,8 @@ Hierarchical Clustering: You can use hierarchical clustering as an exploratory t
 images/travel_plot.png
 
 ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+<center><img src="images/travel_plot.png"/></center>
 
-<center><img src="images/travel_booking (1).png"/></center>
 
 ---
 
