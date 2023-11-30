@@ -32,6 +32,7 @@ The COVID-19 dataset was subjected to a rigorous analysis to extract meaningful 
 
 <center><img src="images/Covid-19 Chart Race.png"/></center>
 
+
 ### Clustering Travel Agency Booking Data
 
 The goal of this project is to apply clustering techniques to a dataset containing travel agency booking information. By organizing this data into meaningful clusters, my aim is to uncover customer segments and travel preferences. This analysis will enable the travel agency to make data-driven decisions, such as targeted marketing, personalized recommendations, and improved resource allocation. 
